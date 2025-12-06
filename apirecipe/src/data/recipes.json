@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "image": "https://www.inspiredtaste.net/wp-content/uploads/2019/03/Spaghetti-with-Meat-Sauce-Recipe-1200.jpg",
+    "ingredients": ["Pasta", "Tomato", "Beef"],
+    "description": "Classic Italian pasta dish with a rich and savory meat sauce.",
+    "prepTime": "15 mins",
+    "cookTime": "45 mins",
+    "servings": 4,
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "In a large pan, sauté onions and garlic until translucent.",
+      "Add ground beef and cook until browned.",
+      "Stir in tomatoes, tomato paste, and seasonings; simmer for 30 minutes.",
+      "Serve sauce over cooked pasta and garnish with Parmesan cheese."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Alfredo",
+    "image": "https://www.thecountrycook.net/wp-content/uploads/2022/03/1st-image-Copycat-Olive-Garden-Chicken-Alfredo.jpg",
+    "ingredients": ["Chicken", "Pasta", "Cream"],
+    "description": "Creamy Alfredo pasta with tender chicken, perfect comfort food.",
+    "prepTime": "10 mins",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "Season chicken breasts with salt and pepper, then cook until golden and cooked through.",
+      "In a pan, heat cream and butter, then add Parmesan cheese to make Alfredo sauce.",
+      "Toss pasta and chicken in the sauce and serve warm."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Beef Tacos",
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2018/01/shredded-beef-tacos-3-730x1095.jpg",
+    "ingredients": ["Beef", "Taco Shells", "Cheese"],
+    "description": "Flavorful beef tacos with cheese and your favorite toppings.",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "servings": 4,
+    "instructions": [
+      "Cook beef in a skillet until browned; season with taco seasoning.",
+      "Warm taco shells in the oven or skillet.",
+      "Assemble tacos with beef, cheese, lettuce, and salsa.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sushi Roll",
+    "image": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Rice", "Salmon", "Seaweed"],
+    "description": "Fresh sushi rolls made with seasoned rice and fresh salmon.",
+    "prepTime": "30 mins",
+    "cookTime": "0 mins",
+    "servings": 2,
+    "instructions": [
+      "Cook sushi rice and season with rice vinegar, sugar, and salt.",
+      "Place a sheet of seaweed on a bamboo mat.",
+      "Spread rice evenly, add salmon and other fillings.",
+      "Roll tightly using the mat and slice into pieces.",
+      "Serve with soy sauce, wasabi, and pickled ginger."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Avocado Toast",
+    "image": "https://www.rootsandradishes.com/wp-content/uploads/2017/08/avocado-toast-with-everything-bagel-seasoning-4.jpg",
+    "ingredients": ["Bread", "Avocado", "Egg"],
+    "description": "Simple and healthy avocado toast with a poached egg on top.",
+    "prepTime": "5 mins",
+    "cookTime": "5 mins",
+    "servings": 2,
+    "instructions": [
+      "Toast bread slices until golden.",
+      "Mash avocado with a pinch of salt and spread on toast.",
+      "Top with a poached or fried egg.",
+      "Sprinkle with pepper, chili flakes, or everything bagel seasoning."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Greek Salad",
+    "image": "https://www.onceuponachef.com/images/2023/06/greek-salad-1-760x935.jpg",
+    "ingredients": ["Lettuce", "Tomato", "Feta Cheese"],
+    "description": "Refreshing Greek salad with crisp vegetables and tangy feta.",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "servings": 4,
+    "instructions": [
+      "Chop lettuce, tomatoes, cucumber, and red onion.",
+      "Add olives and feta cheese.",
+      "Drizzle with olive oil, lemon juice, salt, and pepper.",
+      "Toss gently and serve chilled."
+    ]
+  }
+]
